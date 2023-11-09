@@ -2,7 +2,7 @@
 
 <img
       height="125"
-  <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+   src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen>
       />
 
 👋 ¡Hola, soy José Daniel!<br><br>📚 Estudiante de 19 años en la Universidad Tecnológica de Xicotepec de Juárez, amante de la ciberseguridad y apasionado por el desarrollo Frontend. Siempre en busca de aprender y mejorar mis habilidades en el mundo de la tecnología.<br><br>💻 En mi tiempo libre, me sumerjo en desafíos relacionados con la ciberseguridad, desde pruebas de penetración hasta análisis de vulnerabilidades. Al mismo tiempo, disfruto creando experiencias web atractivas utilizando HTML y CSS. Me encanta la combinación de la seguridad informática y la creatividad del diseño web.<br><br>🔐 ¡Únete a mí en mi viaje por el mundo de la ciberseguridad y el desarrollo Frontend! Juntos, podemos hacer que el ciberespacio sea un lugar más seguro y atractivo.<br><br>📫 Puedes contactarme en jlozamarin@gmail.com.<br><br>¡Gracias por visitar mi perfil!<br>
