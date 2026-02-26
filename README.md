@@ -1,119 +1,46 @@
-# 👋 ¡Hola! Soy tu Developer
+# 💫 Sobre Mí:
 
-<div align="center">
-  
-  ### 💻 Desarrollador Full Stack | 🚀 Tech Enthusiast
-  
-  [![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)](https://twitter.com/username)
-  
-</div>
+👋 ¡Hola, soy José Daniel!<br><br>📚 Soy un estudiante de 20 años en la Universidad Tecnológica de Xicotepec de Juárez, apasionado por la ciberseguridad y el desarrollo Frontend. Siempre busco aprender y mejorar mis habilidades en el mundo de la tecnología.<br><br>💻 En mi tiempo libre, me sumerjo en desafíos relacionados con la ciberseguridad, desde pruebas de penetración hasta análisis de vulnerabilidades. También disfruto creando experiencias web atractivas utilizando HTML y CSS. Me encanta la combinación de la seguridad informática y la creatividad del diseño web.<br><br>🔐 ¡Únete a mí en mi viaje por el mundo de la ciberseguridad y el desarrollo Frontend! Juntos, podemos hacer que el ciberespacio sea un lugar más seguro y atractivo.<br><br>📫 Puedes contactarme en jlozamarin@gmail.com.<br><br>¡Gracias por visitar mi perfil!<br>
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![iisnode](https://img.shields.io/badge/iisnode-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...&logoColor=white)
 
-## 📊 Sobre mí
+# 📊 Estadísticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=PpGrillo1511&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PpGrillo1511&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PpGrillo1511&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```
-👤 Nombre: [Tu nombre]
-🎂 Edad: 21 años
-🎓 Especialidad: Desarrollo Full Stack
-📍 Ubicación: México
-💼 Estado: Siempre aprendiendo
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-  ### Lenguajes
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ### Frontend
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  
-  ### Backend
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  
-  ### Bases de Datos
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-  ### Tools & DevOps
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+### ✍️ Frase Aleatoria para Desarrolladores
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark&locale=es)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark&locale=es)
-  
-</div>
-
----
-
-## 🎯 Proyectos Destacados
-
-### 🚀 [Nombre del Proyecto 1](https://github.com/username/proyecto1)
-Descripción breve del proyecto. Stack: React, Node.js, MongoDB
-
-### 🎨 [Nombre del Proyecto 2](https://github.com/username/proyecto2)
-Descripción breve del proyecto. Stack: TypeScript, Tailwind CSS, Vite
-
-### 💡 [Nombre del Proyecto 3](https://github.com/username/proyecto3)
-Descripción breve del proyecto. Stack: Python, FastAPI, PostgreSQL
-
----
-
-## 🏆 Logros
-
-- ✅ [Certificación en JavaScript](https://ejemplo.com)
-- ✅ [Contribuidor en proyectos Open Source](https://github.com/username)
-- ✅ Más de 50 repositorios
-
----
-
-## 📫 Conecta conmigo
-
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
-  [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://tuportafolio.com)
-  
-</div>
-
----
-
-## 💬 Mi Filosofía
-
-> "El código no es solo lo que escribimos, es la solución que creamos para los demás."
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=username&color=blue)
-  
-  **Hecho con ❤️ por alguien que ama la programación**
-  
-</div>
+[![](https://visitcount.itsvg.in/api?id=PpGrillo1511&icon=2&color=11)](https://visitcount.itsvg.in)
